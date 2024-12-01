@@ -2,7 +2,7 @@ import sys
 import random
 import re
 from PyQt5.QtWidgets import (QApplication, QWidget, QVBoxLayout, QPushButton, 
-                             QGridLayout, QLineEdit, QLabel, QProgressBar, 
+                            QGridLayout, QLineEdit, QLabel, QProgressBar, 
                              QTextEdit, QMessageBox, QComboBox, QSpinBox)
 from PyQt5.QtGui import QFont, QPixmap
 from PyQt5.QtCore import QTimer, Qt, QPropertyAnimation
