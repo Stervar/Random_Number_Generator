@@ -6,7 +6,7 @@ import string
 import matplotlib.pyplot as plt
 from PyQt5.QtWidgets import (QApplication, QWidget, QVBoxLayout, QPushButton, 
                             QGridLayout, QLineEdit, QLabel, QProgressBar, 
-                             QTextEdit, QMessageBox, QComboBox, QSpinBox, 
+                            QTextEdit, QMessageBox, QComboBox, QSpinBox, 
                              QCheckBox, QDialog)
 from PyQt5.QtGui import QFont, QPixmap
 from PyQt5.QtCore import QTimer, Qt, QPropertyAnimation
