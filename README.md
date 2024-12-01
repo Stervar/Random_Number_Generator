@@ -4,7 +4,7 @@
 
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻◣</h2>
 
-![Header](https://example.com/path/to/your/image.png) <!-- Replace with your actual image link -->
+![Header](https://github.com/Stervar/Random_Number_Generator/blob/main/Снимок%20экрана%20(53).png) 
 
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻◣</h2>
 
