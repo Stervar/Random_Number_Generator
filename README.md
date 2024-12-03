@@ -52,3 +52,4 @@ git clone https://github.com/ваш_логин/random-number-generator.git
 cd random-number-generator
 pip install -r requirements.txt
 python main.py
+
